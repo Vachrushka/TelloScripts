@@ -1,4 +1,6 @@
 *.avi
-*.pmg
+*.png
+*.jpg
 *.zip
+*.rar
 /venv
